@@ -1,12 +1,12 @@
-# Data Analytics Portfolio
+# Power BI Portfolio
 
 <!--
 
 **Fraan-Lab/Fraan-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p> In this section I will list the data analysis projects completed, describing in each the tools used. </p>
+<p> In this section I will list the data analysis projects completed. </p>
 
-<p> En esta sección enumeraré los proyectos de análisis de datos realizados, describiendo en cada uno de ellos las herramientas utilizadas. </p>
+<p> En esta sección enumeraré los proyectos de análisis de datos realizados. </p>
 
 ## Contents
   - [x] Data Cleaning, Analysis and Vizualization [[Kaggle.com](https://www.kaggle.com/)]
@@ -17,8 +17,8 @@
 - First, the dataset was cleaned in **Power Query**, then an analysis was executed and finally a **Dashboard** was elaborated in **Power BI Desktop**. The Dashboard created with Power BI shows a comparative summary of daily sales between 2021 and 2022.
 - The final result shows firstly a table that filters the 7 products with more sales in monetary terms, on the other hand, it shows a graph that filters the 7 most sold products in terms of quantity. At the bottom of the dashboard is shown firstly a graph indicating at which times a higher quantity of products were sold. Finally a graph is shown summarizing in which months the highest sales were recorded.
 
-![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/main/Power%20BI/Dashboard%202021%20Bakery_sales.png)
-![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/main/Power%20BI/Dashboard%202022%20Bakery_sales.png)
+![image](https://github.com/Fraan-Lab/Power-BI-Portfolio/blob/main/Bakery%20sales/Dashboard%202021%20Bakery_sales.png)
+![image](https://github.com/Fraan-Lab/Power-BI-Portfolio/blob/main/Bakery%20sales/Dashboard%202022%20Bakery_sales.png)
 
 
 <h4 align="left">Connect with me:</h4>
