@@ -13,7 +13,8 @@
  #### Proyect 1: Bakery sales
 
 - The dataset belongs to a French bakery and provides the daily transaction details of customers from 2021-01-01 to 2022-09-30.
-- The **Dashboard** created with **Power BI** shows a comparative summary of daily sales between 2021 and 2022.
+- The dataset has 234.005 records and 6 fields.
+- First, the dataset was cleaned in **Power Query**, then an analysis was executed and finally a **Dashboard** was elaborated in **Power BI Desktop**. The Dashboard created with Power BI shows a comparative summary of daily sales between 2021 and 2022.
 - The final result shows firstly a table that filters the 7 products with more sales in monetary terms, on the other hand, it shows a graph that filters the 7 most sold products in terms of quantity. At the bottom of the dashboard is shown firstly a graph indicating at which times a higher quantity of products were sold. Finally a graph is shown summarizing in which months the highest sales were recorded.
 
 ![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/main/Power%20BI/Dashboard%202021%20Bakery_sales.png)
