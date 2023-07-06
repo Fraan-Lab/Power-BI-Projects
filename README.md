@@ -4,9 +4,9 @@
 
 **Fraan-Lab/Fraan-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p> In this section I will list the data analysis projects completed. </p>
+<p> In this section I will list the data analysis projects realized with the Power BI tool. </p>
 
-<p> En esta sección enumeraré los proyectos de análisis de datos realizados. </p>
+<p> En esta sección enlistaré los proyectos de análisis de datos realizados con la herramienta Power BI. </p>
 
 ## Contents
   - [x] Data Cleaning, Analysis and Vizualization [[Kaggle.com](https://www.kaggle.com/)]
