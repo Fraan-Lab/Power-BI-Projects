@@ -11,9 +11,10 @@ In this section I will list the data analysis projects completed, describing in 
  #### Proyect 1: Bakery sales
 
 - The dataset belongs to a French bakery and provides the daily transaction details of customers from 2021-01-01 to 2022-09-30. 
-- Technology: Excel, Power BI, SQL 
+- Technology: Power BI 
 
-![image](/https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/821e9ad6957d83e73b1c7c4c278aee6e75e2563c/Dashboard%202021%20Bakery_sales.png)
+![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/821e9ad6957d83e73b1c7c4c278aee6e75e2563c/Dashboard%202021%20Bakery_sales.png)
+![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/821e9ad6957d83e73b1c7c4c278aee6e75e2563c/Dashboard%202022%20Bakery_sales.png)
 
 
 <h4 align="left">Connect with me:</h4>
