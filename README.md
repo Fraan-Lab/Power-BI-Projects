@@ -16,8 +16,8 @@
 - The **Dashboard** created with **Power BI** shows a comparative summary of daily sales between 2021 and 2022.
 - The final result shows firstly a table that filters the 7 products with more sales in monetary terms, on the other hand, it shows a graph that filters the 7 most sold products in terms of quantity. At the bottom of the dashboard is shown firstly a graph indicating at which times a higher quantity of products were sold. Finally a graph is shown summarizing in which months the highest sales were recorded.
 
-![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/821e9ad6957d83e73b1c7c4c278aee6e75e2563c/Dashboard%202021%20Bakery_sales.png)
-![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/821e9ad6957d83e73b1c7c4c278aee6e75e2563c/Dashboard%202022%20Bakery_sales.png)
+![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/main/Power%20BI/Dashboard%202021%20Bakery_sales.png)
+![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/main/Power%20BI/Dashboard%202022%20Bakery_sales.png)
 
 
 <h4 align="left">Connect with me:</h4>
