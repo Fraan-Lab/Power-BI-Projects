@@ -9,8 +9,8 @@
 <p> En esta sección enlistaré los proyectos de análisis de datos realizados con la herramienta Power BI. </p>
 
 ## Contents
-  - [x] Data Cleaning, Analysis and Vizualization [[Kaggle.com](https://www.kaggle.com/)]
- #### Proyect 1: Bakery sales
+  - [x] Data Cleaning, Analysis and Vizualization 
+ #### PROYECT 1: Bakery sales [[Kaggle.com](https://www.kaggle.com/)]
 
 |  English Description | Descripción en Español  |
 | ---- | ---- |
