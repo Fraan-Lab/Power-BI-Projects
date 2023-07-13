@@ -6,6 +6,6 @@
 
 ## Data Cleaning
 
-[ENG] First, the first record was transformed in Power Query to be the table header. Then, in the Quantity field, the records with negative values were eliminated.
+[ENG] First, the first record was transformed in Power Query to be the table header. Then, in the Quantity field, the records with negative values were eliminated. Subsequently, non-numeric characters in the Price field were eliminated by replacing these non-numeric values with empty spaces. Then, the data type in the Price field was changed in order to transform its records to decimal data. Finally, records were eliminated from the Price field where the value was equal to 0.
 
-[ESP] Primeramente, en Power Query se transformó el primer registro para que este sea el encabezado de la tabla. Luego en el campo Cantidad, se eliminaron todos los registros con valores negativos.
+[ESP] Primeramente, en Power Query se transformó el primer registro para que este sea el encabezado de la tabla. Luego en el campo Cantidad, se eliminaron todos los registros con valores negativos. Posteriormente, se eliminaron caracteres no numéricos en el campo Precio reemplazando dichos valores no numéricos por espacios vacíos. Después  se cambió el tipo de dato en el campo Precio con la finalidad de transformar sus registros a datos de tipo decimal. Finalmente se eliminaron registros del Campo Precio en donde el valor era igual a 0.
