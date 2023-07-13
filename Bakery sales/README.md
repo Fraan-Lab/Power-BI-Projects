@@ -6,4 +6,6 @@
 
 ## Data Cleaning
 
-Primeramente, en Power Query se transformó el primer registro para que este sea el encabezado de la tabla. Luego en el campo Cantidad, se eliminaron todos los registros con valores negativos.
+[ENG] First, the first record was transformed in Power Query to be the table header. Then, in the Quantity field, the records with negative values were eliminated.
+
+[ESP] Primeramente, en Power Query se transformó el primer registro para que este sea el encabezado de la tabla. Luego en el campo Cantidad, se eliminaron todos los registros con valores negativos.
