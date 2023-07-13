@@ -12,6 +12,9 @@
 
 ## Analysis & Vizualization
 
-[ENG] The cleaned data set was loaded into Power BI Desktop in order to create a bakery sales report comparing transactions between 2021 and 2022. This Dashboard indicates the total sales and orders for each year.
+[ENG] The cleaned data set was loaded into Power BI Desktop in order to create a bakery sales report comparing transactions between 2021 and 2022. This Dashboard indicates the total sales and orders for each year. Next, a table was created that filters the 7 products with the highest sales in monetary terms and a graph was created that filters the 7 best-selling products in terms of quantity. On the other hand, a graph was created that indicates in which schedules of each year the most sales were made and another graph was also created to summarize in which months the highest sales were recorded.
 
-[ESP] El conjunto de datos limpiados se cargaron a Power BI Desktop con la finalidad de crear un reporte de ventas de la panadería en donde se compara las transacciones entre el año 2021 y 2022. Este Dashboard indica el total de ventas y de pedidos de cada año.
+[ESP] El conjunto de datos limpiados se cargaron a Power BI Desktop con la finalidad de crear un reporte de ventas de la panadería en donde se compara las transacciones entre el año 2021 y 2022. Este Dashboard indica el total de ventas y de pedidos de cada año. Después se creó una tabla que filtra los 7 productos con más ventas en términos monetarios y se creó un gráfico que filtra los 7 productos más vendidos en términos de cantidad. Por otra parte, se creó un gráfico que indica en qué horarios de cada año se realizaron más ventas y también se creó otro gráfico para resumir en qué meses se registraron las mayores ventas.
+
+![image](https://github.com/Fraan-Lab/Power-BI-Portfolio/blob/main/Bakery%20sales/Dashboard%202021%20Bakery_sales.png)
+![image](https://github.com/Fraan-Lab/Power-BI-Portfolio/blob/main/Bakery%20sales/Dashboard%202022%20Bakery_sales.png)
