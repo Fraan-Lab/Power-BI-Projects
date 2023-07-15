@@ -10,7 +10,7 @@
 
 ## Contents
   - [x] Data Cleaning, Analysis and Vizualization 
- #### PROYECT 1: Bakery sales [[Kaggle.com](https://www.kaggle.com/)]
+ #### PROYECT 1: [[Bakery sales](https://github.com/Fraan-Lab/Power-BI-Portfolio/blob/main/Bakery%20sales/README.md)]
 
 |  Summary | Resumen  |
 | ---- | ---- |
