@@ -10,7 +10,7 @@
 
 [ESP] Primeramente, en Power Query se transformó el primer registro para que este sea el encabezado de la tabla. Luego en el campo Cantidad, se eliminaron todos los registros con valores negativos. Posteriormente, se eliminaron caracteres no numéricos en el campo Precio reemplazando dichos valores no numéricos por espacios vacíos. Después  se cambió el tipo de dato en el campo Precio con la finalidad de transformar sus registros a datos de tipo decimal. Finalmente se eliminaron registros del Campo Precio en donde el valor era igual a 0.
 
-## Vizualization
+## Data Vizualization
 
 [ENG] The cleaned data set was loaded into Power BI Desktop in order to create a bakery sales report comparing transactions between 2021 and 2022. Initially, in Power BI Desktop a new measure was created using DAX in the formula bar, this formula indicates the sales and was calculated by multiplying the sum of the Quantity column by the sum of the unit_price column. The new measure was used to create a card indicating total sales. In addition, another card was created to indicate the total orders placed. Then a matrix was created to indicate the total sales for each item, for this matrix the article column and the new measure indicating total sales were used. In this analysis it is only relevant to know the 7 items with the highest sales in monetary terms, for this reason a filter was made in this matrix. In addition, a graph was created that filters the 7 best-selling products in terms of quantity. Moreover, a chart was created indicating in which times of the year the most sales were made and another chart was also created to summarize in which months the highest sales were recorded. Finally, a Slicer was created at the top of the Dashboard to segment by year. 
 
