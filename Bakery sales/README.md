@@ -21,8 +21,8 @@
 Ventas = SUM(bakery_sales[Quantity])*SUM(bakery_sales[unit_price])
 ```
 
-![image](https://github.com/Fraan-Lab/Power-BI-Portfolio/blob/main/Bakery%20sales/Dashboard%202021%20Bakery_sales.png)
-![image](https://github.com/Fraan-Lab/Power-BI-Portfolio/blob/main/Bakery%20sales/Dashboard%202022%20Bakery_sales.png)
+![image](https://github.com/Fraan-Lab/Power-BI-Projects/blob/main/Bakery%20sales/Bakery%20Sales%20Dashboard%202021.png)
+![image](https://github.com/Fraan-Lab/Power-BI-Projects/blob/main/Bakery%20sales/Bakery%20Sales%20Dashboard%202022.png)
 
 ## Analysis
 
